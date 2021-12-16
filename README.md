@@ -4,6 +4,8 @@ Scripts from 'Global labor loss due to humid heat exposure underestimated for ou
 
 Python (Jupyter Notebook) scripts to load and plot labor losses calculated from ERA5 sWBGT using two exposure response functions (ERFs).
 
+Data available on Zenodo at: https://doi.org/10.5281/zenodo.5768042
+
 Conda/Miniconda/Anaconda working environment build included as well in folder.
 
 Scripts plot figures from Env. Res. Let. manuscript 'Global labor loss due to humid heat exposure underestimated for outdoor workers'
